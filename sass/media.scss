@@ -1,0 +1,1117 @@
+/*
+
+/* */
+
+@media screen and (max-width: 3441px) {
+
+}
+
+@media screen and (max-width: 1921px) {
+
+}
+
+@media screen and (max-width: 1401px) {
+
+}
+
+@media screen and (max-width: 1202px) {
+
+}
+
+@media screen and (max-width: 993px) {
+
+}
+
+@media screen and (max-width: 769px) {
+
+}
+
+@media screen and (max-width: 576px) {
+
+}
+
+@media screen and (max-width: 376px) {
+
+}
+
+/* NAV */
+
+@media screen and (max-width: 3441px) {
+    .nav {
+        li {
+            margin-right: 1.625rem;
+            margin-left: 1.625rem;
+            font-size: clamp(0.6875rem, 1.6vw, 1.25rem);
+            border: 2.5px solid transparent;
+            &:hover {
+                border-radius: 10px;
+            }
+            .navbar-text-contacto:hover {
+                color: black !important;
+                transition: color 0.2s ease, background-color 0.4s ease;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1921px) {
+    .nav {
+        li {
+            margin-right: 1.325rem;
+            margin-left: 1.325rem;
+            font-size: clamp(0.6875rem, 1.6vw, 1.25rem);
+            border: 2.5px solid transparent;
+            &:hover {
+                border-radius: 10px;
+            }
+            .navbar-text-contacto:hover {
+                color: black !important;
+                transition: color 0.2s ease, background-color 0.4s ease;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1441px) {
+    .nav {
+        li {
+            margin-right: 1.325rem;
+            margin-left: 1.325rem;
+            font-size: clamp(0.6875rem, 1.6vw, 1.25rem);
+            border: 2.5px solid transparent;
+            &:hover {
+                border-radius: 10px;
+            }
+            .navbar-text-contacto:hover {
+                color: black !important;
+                transition: color 0.2s ease, background-color 0.4s ease;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1201px) {
+    .nav {
+        li {
+            margin-right: 0.325rem;
+            margin-left: 0.325rem;
+            font-size: clamp(0.6875rem, 1.6vw, 1.25rem);
+            border: 2.5px solid transparent;
+            &:hover {
+                border-radius: 10px;
+            }
+            .navbar-text-contacto:hover {
+                color: black !important;
+                transition: color 0.2s ease, background-color 0.4s ease;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 993px) {
+    .nav {
+        li {
+            margin-right: 0.325rem;
+            margin-left: 0.325rem;
+            font-size: clamp(0.6875rem, 1.6vw, 1.25rem);
+            border: 2.5px solid transparent;
+            &:hover {
+                border-radius: 10px;
+            }
+            .navbar-text-contacto:hover {
+                color: black !important;
+                transition: color 0.2s ease, background-color 0.4s ease;
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 769px) {
+    .nav {
+        width: 100%;
+        .navbar-text {
+            background-color: black;
+            a {
+                padding: 0.4rem 0.8rem;
+            }
+        }
+        li {
+            margin-right: 0.325rem;
+            margin-left: 0.325rem;
+            font-size: clamp(1.1875rem, 1.6vw, 1.25rem);
+            &:hover {
+                border-radius: 10px;
+            }
+            .navbar-text-contacto:hover {
+                color: black !important;
+                transition: color 0.2s ease, background-color 0.4s ease;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .nav {
+        .navbar-text {
+            a {
+                padding: 0.4rem 0.8rem;
+            }
+        }
+        li {
+            margin-right: 0.325rem;
+            margin-left: 0.325rem;
+            font-size: clamp(1.1875rem, 1.6vw, 1.25rem);
+            &:hover {
+                border-radius: 10px;
+            }
+            .navbar-text-contacto:hover {
+                color: black !important;
+                transition: color 0.2s ease, background-color 0.4s ease;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 370px) {
+    .nav {
+        .navbar-text {
+            a {
+                padding: 0.4rem 0.8rem;
+            }
+        }
+        li {
+            margin-right: 0.325rem;
+            margin-left: 0.325rem;
+            font-size: clamp(1.1875rem, 1.6vw, 1.25rem);
+            &:hover {
+                border-radius: 10px;
+            }
+            .navbar-text-contacto:hover {
+                color: black !important;
+                transition: color 0.2s ease, background-color 0.4s ease;
+            }
+        }
+    }
+}
+
+/* FOOTER */
+
+@media screen and (max-width: 1921px) {
+    .logo-footer {
+        margin-top: 1.25rem;
+        width: 100%;
+        max-width: 5rem;
+    }
+}
+
+@media screen and (max-width: 1401px) {
+    .logo-footer {
+        width: 100%; 
+        max-width: 5rem;
+    }
+}
+
+@media screen and (max-width: 1202px) {
+    .logo-footer {
+        width: 100%; 
+        max-width: 5rem;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .logo-footer {
+        display: none;
+    }
+    .texto-footer{
+        text-align: center;
+    }
+    .pre-logo-footer{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .logo-footer {
+        display: none;
+    }
+    .texto-footer{
+        text-align: center;
+    }
+    .pre-logo-footer{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .logo-footer {
+        display: none;
+    }
+    .texto-footer{
+        text-align: center;
+    }
+    .pre-logo-footer{
+        display: none;
+    }
+}
+
+/* BOTON FLOTANTE */
+
+
+@media screen and (max-width: 1400px) {
+    .btn-flotante {
+        font-size: 41px; 
+        border-radius: 5px; 
+        letter-spacing: 2px;  
+        padding: 2px 20px; 
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .btn-flotante {
+        font-size: 41px; 
+        border-radius: 5px; 
+        letter-spacing: 2px;  
+        padding: 2px 20px; 
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .btn-flotante {
+        font-size: 41px; 
+        border-radius: 5px; 
+        letter-spacing: 2px;  
+        padding: 2px 20px; 
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .btn-flotante {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .btn-flotante {
+        display: none;
+    }
+}
+
+/* SOBREMI */
+
+@media screen and (max-width: 3441px) {
+.sobremi {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 1921px) {
+.sobremi {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 1441px) {
+.sobremi {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 1202px) {
+.sobremi {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 993px) {
+.sobremi {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 769px) {
+.sobremi {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 576px) {
+.sobremi {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+    .sobremi {
+    padding-top: 1rem;
+    }
+}
+}
+
+@media screen and (max-width: 376px) {
+.sobremi {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+    .sobremi {
+    padding-top: 1rem;
+    }
+}
+}
+
+
+/* SOBREMI DESCRIPCION */
+
+@media screen and (max-width: 3441px) {
+    .SobreMi1{
+        .SobreMi1-text-resumen{
+            font-family: 'inter';
+        }
+        .SobreMi1-img{
+            margin-top: 10vh;
+            padding-right: 5vw;
+        }
+    }
+}
+
+@media screen and (max-width: 1921px) {
+    .SobreMi1{
+        .SobreMi1-text-resumen{
+            font-family: 'inter';
+        }
+        .SobreMi1-img{
+            margin-top: 7vh;
+            padding-right: 5vw;
+        }
+    }
+}
+
+@media screen and (max-width: 1441px) {
+    .SobreMi1{
+        .SobreMi1-text{
+            padding-top: 3vh;
+        }
+        .SobreMi1-text-resumen{
+            font-family: 'inter';
+        }
+        .SobreMi1-img{
+            margin-top: 6vh;
+            padding-right: 5vw;
+        }
+    }
+}
+
+@media screen and (max-width: 1202px) {
+    .SobreMi1{
+        .SobreMi1-text{
+            padding-top: 3vh;
+        }
+        .SobreMi1-text-resumen{
+            font-family: 'inter';
+        }
+        .SobreMi1-img{
+            margin-top: 3vh;
+            padding-right: 5vw;
+        }
+    }
+}
+
+@media screen and (max-width: 993px) {
+    .SobreMi1{
+        .SobreMi1-text{
+            padding-top: 5vh;
+        }
+        .SobreMi1-text-resumen{
+            font-family: 'inter';
+        }
+        .SobreMi1-img{
+            margin-top: 7vh;
+            padding-right: 5vw;
+        }
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .SobreMi1 {
+        .SobreMi1-text {
+            padding-top: 3vh;
+            text-align: center;
+        }
+        .SobreMi1-text-resumen {
+            text-align: center;
+        }
+        .SobreMi1-img {
+            margin-top: 5vh;
+            padding-right: 0;
+        }
+    }
+}
+
+@media screen and (max-width: 577px) {
+    .SobreMi1-img2{
+        display: flex;
+    }
+    .SobreMi1{
+        .SobreMi1-text{
+            padding-top: 5vh;
+            text-align: center;
+        }
+        .SobreMi1-text-resumen{
+            text-align: center;
+        }
+        .SobreMi1-img{
+            margin-top: 2vh;
+            padding-right: 0vw;
+        }
+    }
+}
+
+/* PROYECTOS INICIO INDEX */
+
+@media screen and (max-width: 3441px) {
+.inicio {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 1921px) {
+.inicio {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 1441px) {
+.inicio {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 1202px) {
+.inicio {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 993px) {
+.inicio {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 769px) {
+.inicio {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 576px) {
+.inicio {
+    height: 35vh;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 376px) {
+.inicio {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+    .inicio {
+    padding-top: 1rem;
+    }
+}
+}
+
+/* PROYECTOS TAMAÑOS CONTEINER */
+
+@media screen and (max-width: 3441px) {
+    .rectangulo-proyectos{
+        max-height: 26rem;
+    }
+}
+
+@media screen and (max-width: 1921px) {
+    .rectangulo-proyectos{
+        max-height: 26rem;
+    }
+}
+
+@media screen and (max-width: 1401px) {
+    .rectangulo-proyectos{
+        max-height: 24rem;
+    }
+}
+
+@media screen and (max-width: 1202px) {
+    .rectangulo-proyectos{
+        max-height: 24rem;
+    }
+}
+
+@media screen and (max-width: 993px) {
+    .rectangulo-proyectos{
+        max-height: 24rem;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .rectangulo-proyectos{
+        max-height: 24rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .rectangulo-proyectos{
+        max-width: 20rem;
+        max-height: 24rem;
+    }
+}
+
+@media screen and (max-width: 376px) {
+.rectangulo-proyectos{
+    max-width: 20rem;
+    max-height: 24rem;
+}
+}
+
+
+/* PROYECTO-TIPO-1 */
+
+@media screen and (max-width: 769px) {
+.proyecto-tipo1{
+flex-direction: column-reverse;
+width: 76%;
+height: auto;
+.proyecto-tipo1-img,
+.proyecto-tipo1-text {
+    flex: 0 0 auto;
+    overflow: visible;
+}
+.proyecto-tipo1-img {
+    img {
+    max-height: 230px;
+    margin-bottom: 1rem;
+    }
+}
+.proyecto-tipo1-text {
+        padding: 1rem;
+        text-align: center;
+        .proyecto-tipo-text-titulo {
+        font-size: clamp(1.3rem, 3.3vw, 3rem);
+    }
+}
+}
+}
+
+
+/* PROYECTO2-TIPO-2 */
+
+@media screen and (max-width: 769px) {
+.proyecto-tipo2{
+flex-direction: column;
+width: 76%;
+.proyecto-tipo2-img,
+.proyecto-tipo2-text {
+    flex: 0 0 auto;
+    width: 100%;
+}
+.proyecto-tipo2-img {
+    img {
+    max-height: 230px;
+    margin-bottom: 1rem;
+    }
+}
+.proyecto-tipo2-text {
+    padding: 1rem;
+        .proyecto-tipo2-text-titulo {
+        font-size: clamp(1.3rem, 3.3vw, 3rem);
+        font-weight: bold;
+        margin-top: 0vh;
+    }
+}
+}
+}
+
+/* ZOOM DE PROYECTOS */
+
+@media screen and (max-width: 3441px) {
+    .zoom:hover {
+        transform: scale(1.4);
+    }
+}
+
+@media screen and (max-width: 1921px) {
+    .zoom:hover {
+        transform: scale(1.4);
+    }
+}
+
+@media screen and (max-width: 1441px) {
+    .zoom:hover {
+        transform: scale(1.1);
+    }
+}
+
+/* CONTACTO */
+
+@media screen and (max-width: 3441px) {
+.contacto {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+.contacto-formulario {
+    .contacto-formulario1 {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+        margin-top: 5vh;
+        .contacto-formulario1-titulo {
+            font-size: clamp(1.375rem, 3vw, 3.5rem);
+            font-family: "Playfair Display", serif;
+        }
+        .contacto-formulario1-titulo-subtexto {
+            font-size: clamp(0.875rem, 1.5vw, 1.25rem);
+            font-weight: 500;
+        }
+    }
+}
+}
+
+@media screen and (max-width: 1921px) {
+.contacto {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 1441px) {
+.contacto {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 1202px) {
+.contacto {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 993px) {
+.contacto {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 769px) {
+.contacto {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+}
+}
+
+@media screen and (max-width: 576px) {
+.contacto {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+    .contacto {
+    padding-top: 1rem;
+    }
+}
+}
+
+@media screen and (max-width: 376px) {
+.contacto {
+    height: 35vh;
+    padding: 2rem 1rem;
+    margin: 0;
+    animation-name: extraindex;
+    animation-duration: 4s;
+    animation-delay: 0s;
+    @keyframes extraindex {
+    0% {
+        height: 100vh;
+    }
+    100% {
+        height: 35vh;
+    }
+    }
+    .contacto {
+    padding-top: 1rem;
+    }
+}
+}
+
+/* CONTACTO TEXTO */
+
+
+@media screen and (max-width: 3441px) {
+    .inicio-contacto {
+        height: 30vh;
+        .inicio1-contacto {
+            display: block;
+            margin-top: -4vh;
+        }
+    }
+}
+
+@media screen and (max-width: 1921px) {
+    .inicio-contacto {
+        height: 30vh;
+        .inicio1-contacto {
+            display: block;
+            margin-top: -1vh;
+        }
+    }
+}
+
+@media screen and (max-width: 1401px) {
+    .inicio-contacto {
+        height: 31vh;
+        .inicio1-contacto {
+            display: block;
+            margin-top: -1vh;
+        }
+    }
+}
+
+@media screen and (max-width: 1201px) {
+    .inicio-contacto {
+        height: 32vh;
+        .inicio1-contacto {
+            display: block;
+            margin-top: 1vh;
+        }
+    }
+}
+
+@media screen and (max-width: 993px) {
+    .inicio-contacto {
+        height: 32vh;
+        .inicio1-contacto {
+            display: block;
+            margin-top: 3vh;
+        }
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .inicio-contacto {
+        height: 18vh;
+        .inicio1-contacto {
+            display: block;
+            margin-top: -3vh;
+        }
+    }
+}
+
+@media screen and (max-width: 571px) {
+    .inicio-contacto {
+        height: 16vh;
+        .inicio1-contacto {
+            display: block;
+            margin-top: -12vh;
+            padding-top: 10vh;
+        }
+    }
+}
+
+@media screen and (max-width: 371px) {
+    .inicio-contacto {
+        height: 16vh;
+        .inicio1-contacto {
+            display: block;
+            margin-top: -12vh;
+            padding-top: 10vh;
+        }
+    }
+}
+
+
+/* FORMULARIO CONTACTO */
+

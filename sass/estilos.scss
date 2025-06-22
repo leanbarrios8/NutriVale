@@ -1,6 +1,7 @@
 /* FUENTES */
 
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Pinyon+Script&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Huninn&display=swap');
 
 /* HTML */
 *{
@@ -137,14 +138,61 @@ html {
 */
 
 .inicio {
-    background-image: url('assets/img/Fondo-Titulo.png');
+    background-image: url('../assets/img/Fondo-Titulo.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     padding: 40px 20px;
     color: black;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+
+    @media (max-width: 768px) {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
+.inicio-img {
+    flex: 1 1 50%;
+    display: flex;
+    justify-content: flex-end;   // CENTRA la imagen en su mitad
+    align-items: center;
+    img {
+        width: 330px;
+        height: auto;
+        border-radius: 1rem;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+        background: #fff;
+        object-fit: cover;
+    }
+    @media (max-width: 768px) {
+        flex: none;
+        justify-content: center;
+        img {
+            width: 120px;
+        }
+    }
+}
+
+.inicio-texto {
+    flex: 1 1 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;     // Centra verticalmente el texto
+    align-items: flex-start;         // Centra horizontalmente el texto
     text-align: center;
-    min-height: 100vh; /* ocupa al menos toda la altura de la pantalla */
+    font-family: "Huninn", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    @media (max-width: 768px) {
+        align-items: center;
+        text-align: center;
+    }
 }
 
 .btn-flotante {
